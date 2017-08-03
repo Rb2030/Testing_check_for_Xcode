@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "c61c985059a1a6e056f8e0e721784784"
+build_time: [555105484, 7558000]
+inputs:
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTestingTests/ActionTests.swift": [555103560, 0]
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTestingTests/PlayingwithTestingTests.swift": [555103335, 0]
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTesting/Action.swift": [555103501, 0]
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTesting/Math.swift": [555105483, 0]
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTestingTests/MathTests.swift": [555104827, 0]

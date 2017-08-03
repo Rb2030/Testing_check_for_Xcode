@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "59e18e82d4789f5e07bffa65470be7f1"
+build_time: [555104827, 389169000]
+inputs:
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTesting/ViewController.swift": [555103335, 0]
+  "/Users/Ross/Desktop/Swift Work/PlayingwithTesting/PlayingwithTesting/AppDelegate.swift": [555103335, 0]
